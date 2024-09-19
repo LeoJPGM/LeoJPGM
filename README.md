@@ -83,9 +83,9 @@
 ---
 
 <h3 align="center">📊 Estadísticas de GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leojpgm&theme=blueberry" alt="Racha de Contribuciones" />
+<p align="center" style="display: flex; flex-direction: column">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojpgm&layout=compact&theme=radical" alt="Lenguajes más Usados" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leojpgm&theme=blueberry" alt="Racha de Contribuciones" />
 </p>
 
 <p align="center">¡Gracias por visitar mi perfil!</p>
