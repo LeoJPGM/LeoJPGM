@@ -29,6 +29,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
 </p>
 
 <h4 align="center">🎨 Desarrollo Frontend</h4>
@@ -79,4 +82,10 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leojpgm&theme=dark" alt="leojpgm" /></p>
+<h3 align="center">📊 Estadísticas de GitHub</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leojpgm&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leojpgm&theme=dark" alt="Streak" />
+</p>
+
+<p align="center">¡Gracias por visitar mi perfil!</p>
