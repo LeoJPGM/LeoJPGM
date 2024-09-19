@@ -84,7 +84,6 @@
 
 <h3 align="center">📊 Estadísticas de GitHub</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leojpgm&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leojpgm&theme=dark" alt="Streak" />
 </p>
 
