@@ -1,6 +1,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center">
     <h1 align="center">Hola 👋🏻, soy Leo Jácome</h1>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=leojpgm&label=Profile%20views&color=0c5f92&style=flat" alt="leojpgm" /> </p></div>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=leojpgm&label=Profile%20views&color=0c5f92&style=flat" alt="leojpgm" /> </p>
+</div>
 <h3 align="center">🧑🏻‍💻 Desarrollador Full-Stack, apasionado por la tecnología.</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
