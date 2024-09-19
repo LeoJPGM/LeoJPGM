@@ -12,8 +12,8 @@
 
 <h3 align="center">🔧 Lenguajes de Programación y Herramientas que He Utilizado</h3>
 
-<h4 align="left">🌐 Lenguajes de Programación</h4>
-<p align="left">
+<h4 align="center">🌐 Lenguajes de Programación</h4>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -31,8 +31,8 @@
   </a>
 </p>
 
-<h4 align="left">🎨 Desarrollo Frontend</h4>
-<p align="left">
+<h4 align="center">🎨 Desarrollo Frontend</h4>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -47,8 +47,8 @@
   </a>
 </p>
 
-<h4 align="left">📱 Desarrollo Mobile</h4>
-<p align="left">
+<h4 align="center">📱 Desarrollo Mobile</h4>
+<p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>
@@ -57,8 +57,8 @@
   </a>
 </p>
 
-<h4 align="left">☁️ Backend y Bases de Datos</h4>
-<p align="left">
+<h4 align="center">☁️ Backend y Bases de Datos</h4>
+<p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
@@ -67,8 +67,8 @@
   </a>
 </p>
 
-<h4 align="left">🛠️ Herramientas de Diseño y Control de Versiones</h4>
-<p align="left">
+<h4 align="center">🛠️ Herramientas de Diseño y Control de Versiones</h4>
+<p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
